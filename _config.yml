@@ -24,10 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: The Applicant
-title: null
+title: The Applicant
 email: harm.meissner@posteo.de
-# author: Harm Meissner
+author: Harm Meissner
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
