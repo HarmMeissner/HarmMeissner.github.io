@@ -18,4 +18,10 @@ Also, I would like to enjoy the advantages of the jobs this world offers: they'r
 I am looking forward to hear from you.
 
 Greetings
+
 Harm
+
+## Contact
+
+Please contact me via mail at harm.meissner(at)posteo.de
+or call me at 0176 418 828 17
